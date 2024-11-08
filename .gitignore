@@ -1,3 +1,4 @@
 *.log
 /folder1/
 static/folder1/
+db.accdb
